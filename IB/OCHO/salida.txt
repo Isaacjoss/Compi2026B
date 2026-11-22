@@ -1,0 +1,5 @@
+hola mundo 2026
+select * from tabla_epn;
+entrada.txt: compiladores y lenguajes fis epn 2026b
+int variable_a = 100;
+if (variable_a > 50) print("aceptado");

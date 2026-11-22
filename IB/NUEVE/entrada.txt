@@ -1,0 +1,7 @@
+entradas de prueba: 00112233445566778899
+Anio 2026, Grupo 4, Codigo 905
+
+entrada.txt: Factura 001-002-0004589
+Fecha: 22/11/2026
+Total: 137.85
+Codigo postal: 170525

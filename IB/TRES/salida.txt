@@ -1,2 +1,2 @@
 Numero de lineas 3
-Numero de caracteres 30
+Numero de caracteres 37

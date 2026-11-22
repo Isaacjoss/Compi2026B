@@ -1,0 +1,5 @@
+estudiante@epn.edu.ec
+admin_fis@epn.com
+correo_invalido@localhost
+soporte2026@meta.org
+texto sin arroba ni dominio.com

@@ -1,0 +1,5 @@
+HOLA MUNDO 2026
+Select * From Tabla_EPN;
+entrada.txt: COMPILADORES Y LENGUAJES FIS EPN 2026B
+INT Variable_A = 100;
+IF (Variable_A > 50) PRINT("ACEPTADO");

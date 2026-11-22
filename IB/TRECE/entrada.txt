@@ -1,0 +1,6 @@
+uno,dos,tres
+10,20,30
+a1,b2,c3
+5x,hola
+@,total
+suma, 7, id9
